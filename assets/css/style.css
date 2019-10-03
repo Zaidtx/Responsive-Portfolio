@@ -217,12 +217,29 @@ input[type=submit] {
 }
 
 
-@media only screen (max-width: 980px) and;
- (max-width: 640px); and (max-width: 768px)
- {
+@media only screen and (max-width: 980px){
+  #masthead 
+      {
+        padding: 0 0;
+      
+      }
+}
 
-  .container {
-    background: Silver
+
+@media only screen and (max-width: 768px){ 
+  #masthead 
+  {
+    padding: 0 0;
+  
   }
- }  
+}
+
+@media only screen and (max-width: 640px){
+   #masthead 
+  {
+    padding: 0 0;
+  
+  }
+}
+
 
