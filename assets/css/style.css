@@ -223,19 +223,31 @@ input[type=submit] {
     width: 100%;
     margin: -left: 0;
     margin-bottom: 20px
-      
-      }
-
-      .container {
-        width: 100%
-      }
-      #logo {
-        width: 100%
-      }
-       
-      #main-container {
-        width: 100%
-      }
+  
+  }
+  .container {
+    float: none;
+      width: 100%;
+      margin: -l#main-containereft: 0;
+      margin-bottom: 20px
+  }
+  #logo {
+    float: none;
+      width: 100%;
+      margin: -l#main-containereft: 0;
+      margin-bottom: 20px
+  }
+   
+  #main-container {
+    float: none;
+      width: 100%;
+      margin: -l#main-containereft: 0;
+      margin-bottom: 20px
+  }
+  nav {float: none;
+    width: 100%;
+    margin: -l#main-containereft: 0;
+    margin-bottom: 20px 
 }
 
 
@@ -248,16 +260,28 @@ input[type=submit] {
   
   }
   .container {
-    width: 100%
+    float: none;
+      width: 100%;
+      margin: -l#main-containereft: 0;
+      margin-bottom: 20px
   }
   #logo {
-    width: 100%
+    float: none;
+      width: 100%;
+      margin: -l#main-containereft: 0;
+      margin-bottom: 20px
   }
    
   #main-container {
-    width: 100%
+    float: none;
+      width: 100%;
+      margin: -l#main-containereft: 0;
+      margin-bottom: 20px
   }
-
+  nav {float: none;
+    width: 100%;
+    margin: -l#main-containereft: 0;
+    margin-bottom: 20px 
 }
 
 
@@ -272,16 +296,29 @@ input[type=submit] {
   }
 
 .container {
-  width: 100%
+  float: none;
+      width: 100%;
+      margin: -l#main-containereft: 0;
+      margin-bottom: 20px
 }
 #logo {
-  width: 100%
+  float: none;
+      width: 100%;
+      margin: -l#main-containereft: 0;
+      margin-bottom: 20px
 }
  
 #main-container {
-  width: 100%
+  float: none;
+      width: 100%;
+      margin: -l#main-containereft: 0;
+      margin-bottom: 20px
 }
 
+nav {float: none;
+width: 100%;
+margin: -l#main-containereft: 0;
+margin-bottom: 20px 
 
 }
 
