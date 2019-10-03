@@ -218,35 +218,71 @@ input[type=submit] {
 
 
 @media only screen and (max-width: 980px){
-  #masthead,.container {
+  #masthead {
     float: none;
     width: 100%;
     margin: -left: 0;
     margin-bottom: 20px
       
       }
+
+      .container {
+        width: 100%
+      }
+      #logo {
+        width: 100%
+      }
+       
+      #main-container {
+        width: 100%
+      }
 }
 
 
 @media only screen and (max-width: 768px){ 
-  #masthead,.container {
+  #masthead {
     float: none;
     width: 100%;
     margin: -left: 0;
     margin-bottom: 20px
   
   }
+  .container {
+    width: 100%
+  }
+  #logo {
+    width: 100%
+  }
+   
+  #main-container {
+    width: 100%
+  }
+
 }
+
+
 
 @media only screen and (max-width: 640px){
    
-  #masthead,.container {
+  #masthead {
       float: none;
       width: 100%;
-      margin: -left: 0;
+      margin: -l#main-containereft: 0;
       margin-bottom: 20px
   }
-  
+
+.container {
+  width: 100%
+}
+#logo {
+  width: 100%
+}
+ 
+#main-container {
+  width: 100%
+}
+
+
 }
 
 
